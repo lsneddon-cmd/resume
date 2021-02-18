@@ -10086,6 +10086,13 @@ p.lead {
   font-size: 3rem;
 }
 
+.cert-list-item {
+  font-size: 1.8rem;
+  list-style-type: none;
+  padding: 0.5rem;
+}
+
+
 section.resume-section {
   display: flex;
   align-items: center;
